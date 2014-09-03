@@ -1,0 +1,8 @@
+Licensed under Apache 2:
+guava-14.0.1.jar
+guice-3.0.jar
+jsonschema2pojo-core-0.3.6.jar
+libphonenumber-5.6.jar
+
+Licensed under BSD 3 clause:
+jsr305-2.0.1.jar
