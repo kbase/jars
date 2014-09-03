@@ -1,0 +1,5 @@
+Codemodel [1] is part of Project Kenai / Glassfish Metro which is licensed under
+CDDL v1.1 and GPL v2 [2].
+
+[1] https://codemodel.java.net/ on 9/3/2014
+[2] https://metro.java.net/ on 9/3/2014.
