@@ -1,0 +1,8 @@
+All Apache Commons projects, including velocity, are implicitly licensed
+under the Apache 2.0 license [1].
+
+commons-generic is released under the Apache 2.0 license [2].
+
+
+[1] http://www.apache.org/licenses/ on 9/3/2014
+[2] http://sourceforge.net/projects/collections/ on 9/3/2014
