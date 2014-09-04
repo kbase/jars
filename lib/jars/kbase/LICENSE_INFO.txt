@@ -1,0 +1,1 @@
+All software contained in this folder is subject to the KBase license.

@@ -1,0 +1,1 @@
+See http://stackoverflow.com/questions/16343572/license-for-glassfish-javax-servlet-servlet-api-version-2-5

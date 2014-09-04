@@ -1,0 +1,4 @@
+The Jung web page [1] does not specify the style of BSD license so a 3 clause
+license is assumed.
+
+[1] http://jung.sourceforge.net/faq.html
