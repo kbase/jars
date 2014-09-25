@@ -23,3 +23,18 @@ lib/jars/apache-commons/http/httpcore-4.2.4.jar
 lib/jars/apache-commons/http/httpmime-4.2.5.jar
 lib/jars/bson4jackson/bson4jackson-2.1.0.jar
 
+To add jars to this repo, submit a pull request with the new jars in
+appropriate directories with the jars' licenses in the same directories.
+Generally speaking, there should be one license per directory. PRs for jars
+without licenses (new or previously existing in the same folder) will be
+rejected.
+
+If the jar licenses do not already exist somewhere in the jars repo, expect
+that it might take extensive time to merge the PR as the license will need to
+be passed through legal to be sure that redistributing the jars is acceptable.
+
+All jars generated as part of the KBase project should go under the kbase
+directory. Do not add the kbase license to subdirectories.
+
+3rd party jars should never go into the kbase directory.
+
