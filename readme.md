@@ -7,7 +7,7 @@ name.
 file names (e.g. different versions of the same library).
 
 Repo structure:
-lib/jars/<one or more jar categories>/<jars>
+lib/jars/[one or more jar categories]/[jars]
 
 The jar file names *must* contain the version.
 
