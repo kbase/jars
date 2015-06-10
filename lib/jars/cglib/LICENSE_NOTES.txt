@@ -1,0 +1,1 @@
+See https://github.com/cglib/cglib/blob/master/LICENSE and http://asm.ow2.org/license.html

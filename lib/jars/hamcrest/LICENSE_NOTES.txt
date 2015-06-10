@@ -1,0 +1,1 @@
+See https://github.com/hamcrest/JavaHamcrest/blob/master/LICENSE.txt
