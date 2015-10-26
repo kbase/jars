@@ -38,3 +38,5 @@ directory. Do not add the kbase license to subdirectories.
 
 3rd party jars should never go into the kbase directory.
 
+Due to one unpleasant bug 11-th version of kbase/common library was removed.
+Please in all cases use 12-th version contating fix for this bug.
