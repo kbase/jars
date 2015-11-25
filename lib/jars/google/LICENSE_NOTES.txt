@@ -1,5 +1,7 @@
 Licensed under Apache 2:
+google-collections-1.0.jar
 guava-14.0.1.jar
+guava-18.0.jar
 guice-3.0.jar
 jsonschema2pojo-core-0.3.6.jar
 libphonenumber-5.6.jar

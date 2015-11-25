@@ -1,0 +1,1 @@
+See <licenses> block in https://github.com/testinfected/hamcrest-matchers/blob/master/pom.xml
