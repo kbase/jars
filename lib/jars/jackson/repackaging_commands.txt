@@ -1,0 +1,8 @@
+$ java -cp ../jarjarlinks/jarjar-1.7.2.jar:../asm/asm-7.0.jar:../asm/asm-commons-7.0.jar org.pantsbuild.jarjar.Main process rules jackson-core-2.2.3.jar jackson-core-2.2.3-repackaged.jar
+
+$ java -cp ../jarjarlinks/jarjar-1.7.2.jar:../asm/asm-7.0.jar:../asm/asm-commons-7.0.jar org.pantsbuild.jarjar.Main process rules jackson-databind-2.2.3.jar jackson-databind-2.2.3-repackaged.jar
+
+$ java -cp ../jarjarlinks/jarjar-1.7.2.jar:../asm/asm-7.0.jar:../asm/asm-commons-7.0.jar org.pantsbuild.jarjar.Main process rules jackson-annotations-2.2.3.jar jackson-annotations-2.2.3-repackaged.jar
+
+
+
